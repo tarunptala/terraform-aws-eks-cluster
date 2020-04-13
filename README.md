@@ -99,17 +99,3 @@ $ kubectl apply -f aws-auth.yaml
 $ kubectl get no -w
 ```
 **Note:-** You should be seeing nodes joining the cluster within less than minutes.
-
----
-
-## Contribution
-We are happy to accept the changes that you think can help the utilities grow.
-
-Here are some things to note:
-
-* Raise a ticket for any requirement
-* Discuss the implementation requirement or bug fix with the team members
-* Fork the repository and solve the issue in one single commit
-* Raise a PR regarding the same issue and attach the required documentation or provide a more detailed overview of the changes
-
-
